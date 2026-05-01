@@ -46,9 +46,11 @@ al final de cada pantalla sin perder todas sus vidas. !Está atrapada en una de 
 *Forest level*
 
 ![Cementerio](screenshots/cemetery.png) 
+
 *Cemetery level*
 
 ![CapasProfundidad](screenshots/sortingLayers.png) 
+
 *Sorting layers in action*
 
 ---
