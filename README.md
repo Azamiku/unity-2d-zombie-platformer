@@ -39,7 +39,7 @@ al final de cada pantalla sin perder todas sus vidas. !Está atrapada en una de 
 
 | Menú principal | Bosque | Cementerio |
 |---|---|---|
-| ![Menu](screenshots/menu.png) | ![Bosque](screenshots/bosque.png) | ![Cementerio](screenshots/cementerio.png) |
+| ![Menu](screenshots/menu.png) | ![Bosque](screenshots/forest.png) | ![Cementerio](screenshots/cemetery.png) | ![CapasProfundidad](screenshots/sortingLayers.png) 
 
 ---
 
