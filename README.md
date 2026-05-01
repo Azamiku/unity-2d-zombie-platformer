@@ -37,9 +37,19 @@ al final de cada pantalla sin perder todas sus vidas. !Está atrapada en una de 
 
 ## 📸 Capturas
 
-| Menú principal | Bosque | Cementerio |
+| Menú principal | Bosque | Cementerio | Capas
 |---|---|---|
-| ![Menu](screenshots/menu.png) | ![Bosque](screenshots/forest.png) | ![Cementerio](screenshots/cemetery.png) | ![CapasProfundidad](screenshots/sortingLayers.png) 
+| ![menu](screenshots/menu.png) 
+*Main menu*
+
+![Bosque](screenshots/forest.png)  
+*Forest level*
+
+![Cementerio](screenshots/cemetery.png) 
+*Cemetery level*
+
+![CapasProfundidad](screenshots/sortingLayers.png) 
+*Sorting layers in action*
 
 ---
 
