@@ -53,4 +53,4 @@ al final de cada pantalla sin perder todas sus vidas. !Está atrapada en una de 
 
 ## 🎓 Contexto académico
 
-Proyecto final del módulo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+Proyecto final del módulo de **Programación Multimedia y Dispositivos Móviles (PMDM) de GS DAM**.
