@@ -66,3 +66,6 @@ al final de cada pantalla sin perder todas sus vidas. !Está atrapada en una de 
 ## 🎓 Contexto académico
 
 Proyecto final del módulo de **Programación Multimedia y Dispositivos Móviles (PMDM) de GS DAM**.
+
+## 🎨 Credits
+Assets by [Game Arte 2D](https://www.gameart2d.com) — free sprites.
